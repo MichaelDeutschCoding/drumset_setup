@@ -13,12 +13,14 @@ Create a drumset using HTML, CSS, JS.
 
     - for mouse click events, you can get the key by looking at the "this" object.
 
+4. The repo contains a folder with soundfiles.
+
 
  This looks complex, but its pretty simple.
 
- Get the clicked element, or key press.
- Use it's value to get the correct audio element.
- Play the audio element.
+ - Get the clicked element, or key press.
+ - Use it's value to get the correct audio element.
+ - Play the audio element.
 
  Have fun, good luck!
  
